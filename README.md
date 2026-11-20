@@ -1,4 +1,4 @@
-# Hi! I'm Shriansh Jaiswal/ SJ
+# Hi! I'm Shriansh Jaiswal
 
 I'm a Mechanical Engineering undergraduate at IIT Delhi, graduating in 2028, and a Coordinator at DevClub, IIT Delhi. I spend most of my time building AI agents and the tools around them — voice, chat, multi-agent systems, and a lot of tinkering in between.
 
@@ -24,6 +24,7 @@ Here are a few things I'm into:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Some Projects
 
