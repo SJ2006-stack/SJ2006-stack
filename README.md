@@ -1,4 +1,4 @@
-# Hi! I'm Shriansh Jaiswal
+# Hi! I'm Shriansh Jaiswal/ SJ
 
 I'm a Mechanical Engineering undergraduate at IIT Delhi, graduating in 2028, and a Coordinator at DevClub, IIT Delhi. I spend most of my time building AI agents and the tools around them — voice, chat, multi-agent systems, and a lot of tinkering in between.
 
