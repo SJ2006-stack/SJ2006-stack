@@ -1,13 +1,13 @@
 # Hi! I'm Shriansh Jaiswal
 
-I'm a Mechanical Engineering undergraduate at IIT Delhi, graduating in 2028, and a Coordinator at DevClub, IIT Delhi. I build AI agents that act in the real world — and the guardrails that keep them safe while they do it.
+I'm a Mechanical Engineering undergraduate at IIT Delhi, graduating in 2028, and a Coordinator at DevClub, IIT Delhi. I spend most of my time building AI agents and the tools around them — voice, chat, multi-agent systems, and a lot of tinkering in between.
 
-Here are a few things I'm focused on:
+Here are a few things I'm into:
 
-- Building and shipping AI agents — voice, chat, and multi-agent systems that run real errands, not demos
-- AI safety and evaluation — consent gates, prompt-injection resistance, secrets handling, and checking what an agent actually did, not what it claimed
-- MCP and tool-use — building MCP servers and thinking about what a tool should and should not let an agent do
-- Cybersecurity — CTF player (ScytheCTF, Key of Krypton, Kronos)
+- Building AI agents that do actual work — errands, research, meetings — not just chat
+- MCP servers and tooling for LLMs
+- Benchmarking the things I build, and figuring out where they break
+- Cybersecurity and CTFs (ScytheCTF, Key of Krypton, Kronos)
 - Open source contribution
 - Hackathons — building fast, with a team, under a deadline
 
@@ -27,13 +27,13 @@ Here are a few things I'm focused on:
 
 ## Some Projects
 
-Check out the pinned repos below — they are, in order:
+Check out the pinned repos below — a few favourites:
 
-- **Scout** — a live voice + chat personal agent for life errands. Its screen intelligence is consent-gated (one frame, per-capture approval, never stored), secrets are masked to last-4, and instructions that appear on screen are flagged, never followed.
-- **Ajax (enterpriserag)** — a benchmark harness for enterprise RAG: a six-layer pipeline (ingest → plan → retrieve → expand → adjudicate → generate/abstain) run against EnterpriseRAG-Bench and Salesforce HERB, with an append-only scored run log, deterministic local scoring, and written failure analysis of every run — including why the scores are what they are.
-- **HN Intelligence MCP** — an MCP server that gives LLM agents ranked Hacker News signal: 11 FastMCP tools, with sentiment and anomaly detection run before the LLM sees anything.
-- **GTMaxxin** — an 11-agent LangGraph swarm for go-to-market intelligence, with parallel orchestration and live observability.
-- **Jazz-Wall** — real-time multilingual meeting intelligence, streaming audio over WebSockets into agent-ready knowledge artifacts.
+- **Scout** — a live voice + chat personal agent for life errands. It can look at your screen when you let it (one screenshot at a time, nothing stored), keeps secrets masked, and never follows instructions it finds written on a screen.
+- **Ajax (enterpriserag)** — my benchmarking setup for enterprise RAG: a six-layer pipeline run against EnterpriseRAG-Bench and Salesforce HERB, with every scored run logged, mostly so I can see exactly where retrieval pipelines fail.
+- **HN Intelligence MCP** — an MCP server that gives LLMs ranked Hacker News signal: 11 FastMCP tools, with sentiment and anomaly detection done before the model reads anything.
+- **GTMaxxin** — an 11-agent LangGraph swarm for go-to-market research, with parallel orchestration and live tracing.
+- **Jazz-Wall** — real-time multilingual meeting transcription that pauses when you start talking and writes up notes when you don't.
 
 More on my website: [shrianshjaiswal.me](https://shrianshjaiswal.me)
 
